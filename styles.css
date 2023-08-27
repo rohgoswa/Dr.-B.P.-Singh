@@ -49,6 +49,10 @@ p {
   padding-top: 100px;
 
 }
+.myimage{
+  max-width: 50%;
+  height: auto;
+}
 
 .bottom-ignou {
   position: absolute;
@@ -105,11 +109,11 @@ p {
 }
 
 
-
+<!--
 .top-container {
   background-color: #e4f9f5;
 }
-
+-->
 .middle-container {
   margin: 100px auto;
 }
