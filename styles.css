@@ -52,11 +52,17 @@ p {
 
 .bottom-ignou {
   position: absolute;
+  border-radius: 100%;
+  width: 15%;
+  float: left;
   bottom: 40%;
   left: 23%;
 }
 .top-kvs {
   position: absolute;
+  border-radius: 100%;
+  width: 15%;
+  float: right;
   right: 20%;
   top: 9%;
 }
