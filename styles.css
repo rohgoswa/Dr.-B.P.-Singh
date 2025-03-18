@@ -11,7 +11,7 @@ div {
 h1 {
   font-size: 5.625rem;
   font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  color: #555;
   width: 50%;
   margin: 15px auto 10px auto ;
 }
@@ -68,7 +68,7 @@ p {
 }
 
 .mountain {
-  width: 26%;
+  width: 23%;
 }
 .dude {
   border-radius: 100%;
