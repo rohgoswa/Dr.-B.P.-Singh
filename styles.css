@@ -49,22 +49,16 @@ p {
   padding-top: 100px;
 
 }
-.myimage{
-  max-width: 50%;
-  height: auto;
-}
 
-.bottom-ignou {
+.bottom-cloud {
   position: absolute;
-  border-radius: 10%;
-  width: 15%;
-  float: left;
+  bottom: 40%;
+  left: 23%;
 }
-.top-kvs {
+.top-cloud {
   position: absolute;
-  border-radius: 10%;
-  width: 15%;
-  float: right;
+  right: 20%;
+  top: 9%;
 }
 .birds{
   width: 15%;
@@ -78,12 +72,12 @@ p {
 }
 .dude {
   border-radius: 100%;
-  width: 14%;
+  width: 20%;
 }
 
 .hacking {
   border-radius: 100%;
-  width: 25%;
+  width: 35%;
   float: left;
   padding-right: 30px;
   text-align: right;
@@ -98,18 +92,50 @@ p {
   float: left;
   padding-right: 30px;
 }
+.bike-para{
+  line-height: 1.9;
+}
 .coding{
   border-radius: 100%;
   width: 30%;
   float: right;
 }
-
-
-<!--
+.research{
+  border-radius: 100%;
+  width: 30%;
+  float: right;
+  padding-right: 30px;
+  text-align: left;
+}
+.academic{
+  border-radius: 100%;
+  width: 35%;
+  float: right;
+  padding-right: 30px;
+  text-align: left;
+}
+.books{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+  text-align: right;
+}
+.seminar{
+  border-radius: 100%;
+  width: 30%;
+  float: right;
+  padding-right: 35px;
+  text-align: left;
+}
+}
+.seminar-para{
+  line-height: 1.9;
+}
 .top-container {
   background-color: #e4f9f5;
 }
--->
+
 .middle-container {
   margin: 100px auto;
 }
