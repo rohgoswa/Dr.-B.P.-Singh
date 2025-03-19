@@ -47,7 +47,7 @@ p {
 .top-container {
   position: relative;
   padding-top: 100px;
-
+  background-color: #e6f9ff;
 }
 
 .bottom-cloud {
@@ -130,9 +130,6 @@ p {
 }
 .seminar-para{
   line-height: 1.9;
-}
-.top-container {
-  background-color: #e4f9f5;
 }
 
 .middle-container {
