@@ -57,6 +57,7 @@ p {
 }
 .top-cloud {
   position: absolute;
+  width: 9%;
   right: 20%;
   top: 9%;
 }
